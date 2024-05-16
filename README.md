@@ -15,5 +15,7 @@ IVCompressor library (ensure this is included in your classpath)
 it always good use the new version of the library 
 
 
+data: A byte array representing the video or image data to be compressed.
+isVideo: A boolean flag indicating whether the data is a video (true) or an image (false). It's crucial to set this flag correctly to ensure the appropriate compression method is applied.
 
 
